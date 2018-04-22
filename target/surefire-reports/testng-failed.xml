@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [API Suite]" parallel="tests">
+  <test name="Test on Rest API ">
+    <classes>
+      <class name="APITesting.com.org.api.JasonServerResquests"/>
+    </classes>
+  </test> <!-- Test on Rest API  -->
+</suite> <!-- Failed suite [API Suite] -->

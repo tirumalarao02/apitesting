@@ -203,7 +203,7 @@ public class JasonServerResquests {
     	extract().
     	time();
     	
-    	System.out.println("Response time is : "+ time);
+    	System.out.println("Response time is:"+ time);
     	
     	
     	

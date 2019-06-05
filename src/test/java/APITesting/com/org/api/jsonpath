@@ -37,6 +37,7 @@
 }
 
 
+for Json path:http://jsonviewer.stack.hu/
 
 https://jsonpath.curiousconcept.com/
 $..author                                  All authors
